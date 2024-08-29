@@ -22,6 +22,6 @@ I am currently a graduate teaching assistant, teaching the following undergradua
 
 Contact Details
 ======
-**Office**: Columbia House room 1.01
+**Office**: Room 1.01, Columbia House
 
 **Email**: x.liu146 at lse dot ac dot uk
