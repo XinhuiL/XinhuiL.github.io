@@ -23,5 +23,5 @@ I am currently a graduate teaching assistant, teaching the following undergradua
 Contact Details
 ======
 - Office: Room 1.01, Columbia House
-- Address: Department of Statistics, London School of Economics, Houghton Street, WC2A 2AE, UK
+- Address: Department of Statistics, London School of Economics and Political Science, Houghton Street, WC2A 2AE, UK
 - Email: x.liu146 at lse dot ac dot uk
