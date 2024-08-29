@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Statistics at LSE, working under the supervision of Dr. Kostas Kalogeropoulos and Dr. Francesca Panero. Prior to joining the PhD programme, I completed an MSc in Statistics (Research) at the LSE Department of Statistics. I received my Bachelor’s degree in Statistics from Beijing Normal University-Hong Kong Baptist University United International College.
+I am currently a PhD student in Statistics at LSE, working under the supervision of [Dr. Kostas Kalogeropoulos](https://kostaskalog.github.io/webpage/) and [Dr. Francesca Panero](https://francescapanero.github.io/). Prior to joining the PhD programme, I completed an MSc in Statistics (Research) at the LSE Department of Statistics. I received my Bachelor’s degree in Statistics from Hong Kong Baptist University.
 
 A data-driven personal website
 ======
