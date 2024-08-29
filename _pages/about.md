@@ -24,4 +24,6 @@ Contact Details
 ======
 **Office**: Room 1.01, Columbia House
 
+**Address**: Houghton Street, Department of Statistics, London School of Economics, London WC2A 2AE, UK
+
 **Email**: x.liu146 at lse dot ac dot uk
