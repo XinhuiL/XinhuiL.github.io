@@ -11,10 +11,9 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 <h2>Publications</h2>
 <ul>
-  {% assign publications = site.publications %}
-  {% for publication in publications.docs %}
+  {% for publication in site.publications %}
     <li>
-      <a href="{{ publication.url }}">{{ publication.title }}</a>
+      <a href="{{ publication.url | relative_url }}">{{ publication.title }}</a>
     </li>
   {% endfor %}
 </ul>
