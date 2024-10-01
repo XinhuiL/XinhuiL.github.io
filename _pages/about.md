@@ -18,9 +18,10 @@ My research interests include Bayesian statistics, machine learning, and social 
 
 Teaching
 ======
-I am currently a graduate teaching assistant, teaching the following undergraduate classes:
+I am currently a graduate teaching assistant, teaching the following undergraduate classes and seminars for master's students:
 1. [ST107: Quantitative Methods (Statistics)](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/ST/2020_ST107.htm)
 1. [ST109: Elementary Statistical Theory I](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/ST/2021_ST109.htm)
+1. [ST411: Generalised Linear Modelling and Survival Analysis](https://www.lse.ac.uk/resources/calendar/courseGuides/ST/2024_ST411.htm)
 
 
 Contact Details
