@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Statistics at LSE, working under the supervision of [Dr. Kostas Kalogeropoulos](https://kostaskalog.github.io/webpage/) and [Dr. Francesca Panero](https://francescapanero.github.io/). Prior to joining the PhD programme, I completed an MSc in Statistics (Research) at the LSE Department of Statistics. I received my Bachelor’s degree in Statistics from Beijing Normal-Hong Kong Baptist University.
+I am a PhD student in Statistics at LSE, working under the supervision of [Dr. Kostas Kalogeropoulos](https://kostaskalog.github.io/webpage/). Prior to joining the PhD programme, I completed an MSc in Statistics (Research) at the LSE Department of Statistics. I received my Bachelor’s degree in Statistics from Beijing Normal-Hong Kong Baptist University.
 
 I am a big fan of Manchester City FC, too! Sometimes you might spot me in Manchester on weekends, especially hanging around near the Etihad Stadium.
 
